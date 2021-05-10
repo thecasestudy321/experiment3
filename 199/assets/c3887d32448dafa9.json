@@ -1,0 +1,59 @@
+﻿{"frames": {
+
+"Bitmap 12":
+{
+	"frame": {"x":2,"y":2,"w":22,"h":6},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":6},
+	"sourceSize": {"w":22,"h":6}
+},
+"Bitmap 13":
+{
+	"frame": {"x":26,"y":2,"w":13,"h":357},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":357},
+	"sourceSize": {"w":13,"h":357}
+},
+"Bitmap 9":
+{
+	"frame": {"x":41,"y":2,"w":96,"h":276},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":96,"h":276},
+	"sourceSize": {"w":96,"h":276}
+},
+"bbb":
+{
+	"frame": {"x":139,"y":2,"w":177,"h":71},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":177,"h":71},
+	"sourceSize": {"w":177,"h":71}
+},
+"spoon_1.png":
+{
+	"frame": {"x":318,"y":2,"w":111,"h":118},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":111,"h":118},
+	"sourceSize": {"w":111,"h":118}
+},
+"高锰酸钾颗粒_qc.png":
+{
+	"frame": {"x":2,"y":361,"w":296,"h":91},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":296,"h":91},
+	"sourceSize": {"w":296,"h":91}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "15.0.0.173",
+	"image":"c3887d32448dafa9.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":512},
+	"scale": "1"
+}
+}

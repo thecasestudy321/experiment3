@@ -1,0 +1,99 @@
+﻿{"frames": {
+
+"Bitmap 1":
+{
+	"frame": {"x":2,"y":2,"w":27,"h":27},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":27,"h":27},
+	"sourceSize": {"w":27,"h":27}
+},
+"Bitmap 2":
+{
+	"frame": {"x":31,"y":2,"w":10,"h":214},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":10,"h":214},
+	"sourceSize": {"w":10,"h":214}
+},
+"Bitmap 3":
+{
+	"frame": {"x":43,"y":2,"w":39,"h":98},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":39,"h":98},
+	"sourceSize": {"w":39,"h":98}
+},
+"glass_qc.png copy":
+{
+	"frame": {"x":84,"y":2,"w":238,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":238,"h":72},
+	"sourceSize": {"w":238,"h":72}
+},
+"sun_qc.png":
+{
+	"frame": {"x":2,"y":218,"w":315,"h":315},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":315,"h":315},
+	"sourceSize": {"w":315,"h":315}
+},
+"sun_qc.png copy":
+{
+	"frame": {"x":2,"y":218,"w":315,"h":315},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":315,"h":315},
+	"sourceSize": {"w":315,"h":315}
+},
+"thermometer.png":
+{
+	"frame": {"x":319,"y":218,"w":108,"h":458},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":458},
+	"sourceSize": {"w":108,"h":458}
+},
+"thermometer.png copy":
+{
+	"frame": {"x":319,"y":218,"w":108,"h":458},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":458},
+	"sourceSize": {"w":108,"h":458}
+},
+"太阳_qc.png copy":
+{
+	"frame": {"x":2,"y":678,"w":86,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":86,"h":43},
+	"sourceSize": {"w":86,"h":43}
+},
+"室外温度计_qc.png copy":
+{
+	"frame": {"x":90,"y":678,"w":183,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":183,"h":43},
+	"sourceSize": {"w":183,"h":43}
+},
+"镜 子_qc.png copy":
+{
+	"frame": {"x":275,"y":678,"w":88,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":43},
+	"sourceSize": {"w":88,"h":43}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "15.0.0.173",
+	"image":"079408820e7d6186.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":1024},
+	"scale": "1"
+}
+}

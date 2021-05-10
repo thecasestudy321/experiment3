@@ -1,0 +1,75 @@
+﻿{"frames": {
+
+"Bitmap 2":
+{
+	"frame": {"x":2,"y":2,"w":55,"h":56},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":55,"h":56},
+	"sourceSize": {"w":55,"h":56}
+},
+"desk.png":
+{
+	"frame": {"x":59,"y":2,"w":615,"h":477},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":615,"h":477},
+	"sourceSize": {"w":615,"h":477}
+},
+"desk_qc.png":
+{
+	"frame": {"x":59,"y":2,"w":615,"h":477},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":615,"h":477},
+	"sourceSize": {"w":615,"h":477}
+},
+"holder.png":
+{
+	"frame": {"x":676,"y":2,"w":319,"h":156},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":319,"h":156},
+	"sourceSize": {"w":319,"h":156}
+},
+"ruler.png":
+{
+	"frame": {"x":2,"y":481,"w":632,"h":47},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":632,"h":47},
+	"sourceSize": {"w":632,"h":47}
+},
+"ruler_qc.png":
+{
+	"frame": {"x":2,"y":530,"w":581,"h":47},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":581,"h":47},
+	"sourceSize": {"w":581,"h":47}
+},
+"桌子_qc.png":
+{
+	"frame": {"x":585,"y":530,"w":91,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":91,"h":43},
+	"sourceSize": {"w":91,"h":43}
+},
+"钢尺_qc.png":
+{
+	"frame": {"x":678,"y":530,"w":90,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":43},
+	"sourceSize": {"w":90,"h":43}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "15.0.0.173",
+	"image":"bbef3da7e9cb40da.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1"
+}
+}

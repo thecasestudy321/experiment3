@@ -1,0 +1,131 @@
+﻿{"frames": {
+
+"Bitmap 10":
+{
+	"frame": {"x":2,"y":2,"w":210,"h":94},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":94},
+	"sourceSize": {"w":210,"h":94}
+},
+"Bitmap 11":
+{
+	"frame": {"x":214,"y":2,"w":210,"h":94},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":94},
+	"sourceSize": {"w":210,"h":94}
+},
+"Bitmap 12":
+{
+	"frame": {"x":426,"y":2,"w":210,"h":94},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":94},
+	"sourceSize": {"w":210,"h":94}
+},
+"Bitmap 3":
+{
+	"frame": {"x":638,"y":2,"w":1047,"h":153},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1047,"h":153},
+	"sourceSize": {"w":1047,"h":153}
+},
+"Bitmap 5":
+{
+	"frame": {"x":2,"y":157,"w":787,"h":2},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":787,"h":2},
+	"sourceSize": {"w":787,"h":2}
+},
+"Bitmap 6":
+{
+	"frame": {"x":791,"y":157,"w":2,"h":165},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":2,"h":165},
+	"sourceSize": {"w":2,"h":165}
+},
+"Bitmap 8":
+{
+	"frame": {"x":795,"y":157,"w":25,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":25,"h":38},
+	"sourceSize": {"w":25,"h":38}
+},
+"Bitmap 9":
+{
+	"frame": {"x":822,"y":157,"w":163,"h":94},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":163,"h":94},
+	"sourceSize": {"w":163,"h":94}
+},
+"desk.png":
+{
+	"frame": {"x":987,"y":157,"w":615,"h":477},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":615,"h":477},
+	"sourceSize": {"w":615,"h":477}
+},
+"desk_qc.png":
+{
+	"frame": {"x":987,"y":157,"w":615,"h":477},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":615,"h":477},
+	"sourceSize": {"w":615,"h":477}
+},
+"holder.png":
+{
+	"frame": {"x":1604,"y":157,"w":319,"h":156},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":319,"h":156},
+	"sourceSize": {"w":319,"h":156}
+},
+"ruler.png":
+{
+	"frame": {"x":2,"y":636,"w":632,"h":47},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":632,"h":47},
+	"sourceSize": {"w":632,"h":47}
+},
+"ruler_qc.png":
+{
+	"frame": {"x":636,"y":636,"w":581,"h":47},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":581,"h":47},
+	"sourceSize": {"w":581,"h":47}
+},
+"桌子_qc.png":
+{
+	"frame": {"x":1219,"y":636,"w":91,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":91,"h":43},
+	"sourceSize": {"w":91,"h":43}
+},
+"钢尺_qc.png":
+{
+	"frame": {"x":1312,"y":636,"w":90,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":90,"h":43},
+	"sourceSize": {"w":90,"h":43}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "15.0.0.173",
+	"image":"65b2e5a0d3ca1157.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}

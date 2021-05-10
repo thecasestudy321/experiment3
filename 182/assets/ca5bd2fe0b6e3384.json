@@ -1,0 +1,83 @@
+﻿{"frames": {
+
+"bean_qc.png":
+{
+	"frame": {"x":2,"y":2,"w":46,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":43},
+	"sourceSize": {"w":46,"h":43}
+},
+"beans_qc.png":
+{
+	"frame": {"x":50,"y":2,"w":226,"h":98},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":226,"h":98},
+	"sourceSize": {"w":226,"h":98}
+},
+"cup_page_snd.png":
+{
+	"frame": {"x":2,"y":102,"w":272,"h":436},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":272,"h":436},
+	"sourceSize": {"w":272,"h":436}
+},
+"nb.x":
+{
+	"frame": {"x":276,"y":102,"w":18,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":18,"h":18},
+	"sourceSize": {"w":18,"h":18}
+},
+"paper1.png":
+{
+	"frame": {"x":296,"y":102,"w":136,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":136,"h":117},
+	"sourceSize": {"w":136,"h":117}
+},
+"五颗黄豆_qc.png":
+{
+	"frame": {"x":2,"y":540,"w":152,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":152,"h":43},
+	"sourceSize": {"w":152,"h":43}
+},
+"杯子_qc.png":
+{
+	"frame": {"x":156,"y":540,"w":229,"h":367},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":229,"h":367},
+	"sourceSize": {"w":229,"h":367}
+},
+"玻璃杯_qc.png":
+{
+	"frame": {"x":387,"y":540,"w":116,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":116,"h":43},
+	"sourceSize": {"w":116,"h":43}
+},
+"纸 巾.png":
+{
+	"frame": {"x":2,"y":909,"w":89,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":43},
+	"sourceSize": {"w":89,"h":43}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "15.0.0.173",
+	"image":"ca5bd2fe0b6e3384.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":1024},
+	"scale": "1"
+}
+}

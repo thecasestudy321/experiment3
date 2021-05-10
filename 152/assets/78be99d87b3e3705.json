@@ -1,0 +1,187 @@
+﻿{"frames": {
+
+"Bitmap 2":
+{
+	"frame": {"x":2,"y":2,"w":52,"h":52},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":52,"h":52},
+	"sourceSize": {"w":52,"h":52}
+},
+"Bitmap 5":
+{
+	"frame": {"x":56,"y":2,"w":35,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":35,"h":100},
+	"sourceSize": {"w":35,"h":100}
+},
+"Bitmap 6":
+{
+	"frame": {"x":93,"y":2,"w":232,"h":96},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":232,"h":96},
+	"sourceSize": {"w":232,"h":96}
+},
+"Bitmap 7":
+{
+	"frame": {"x":327,"y":2,"w":252,"h":94},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":252,"h":94},
+	"sourceSize": {"w":252,"h":94}
+},
+"Bitmap 8":
+{
+	"frame": {"x":2,"y":104,"w":639,"h":343},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":639,"h":343},
+	"sourceSize": {"w":639,"h":343}
+},
+"Washer_Cross.png":
+{
+	"frame": {"x":643,"y":104,"w":47,"h":13},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":47,"h":13},
+	"sourceSize": {"w":47,"h":13}
+},
+"car_hook.png":
+{
+	"frame": {"x":692,"y":104,"w":164,"h":116},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":164,"h":116},
+	"sourceSize": {"w":164,"h":116}
+},
+"car_hook.png copy":
+{
+	"frame": {"x":692,"y":104,"w":164,"h":116},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":164,"h":116},
+	"sourceSize": {"w":164,"h":116}
+},
+"grommet_qc.png":
+{
+	"frame": {"x":858,"y":104,"w":62,"h":20},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":62,"h":20},
+	"sourceSize": {"w":62,"h":20}
+},
+"hitArea":
+{
+	"frame": {"x":922,"y":104,"w":50,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+	"sourceSize": {"w":50,"h":50}
+},
+"hook.png":
+{
+	"frame": {"x":2,"y":449,"w":49,"h":29},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":49,"h":29},
+	"sourceSize": {"w":49,"h":29}
+},
+"nb.x":
+{
+	"frame": {"x":53,"y":449,"w":18,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":18,"h":18},
+	"sourceSize": {"w":18,"h":18}
+},
+"second_qc.png":
+{
+	"frame": {"x":73,"y":449,"w":105,"h":160},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":105,"h":160},
+	"sourceSize": {"w":105,"h":160}
+},
+"wheel_front.png":
+{
+	"frame": {"x":180,"y":449,"w":41,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":41,"h":40},
+	"sourceSize": {"w":41,"h":40}
+},
+"wood.png":
+{
+	"frame": {"x":2,"y":611,"w":1001,"h":149},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1001,"h":149},
+	"sourceSize": {"w":1001,"h":149}
+},
+"wood.png copy":
+{
+	"frame": {"x":2,"y":762,"w":869,"h":188},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":869,"h":188},
+	"sourceSize": {"w":869,"h":188}
+},
+"两头带钩的线_qc.png":
+{
+	"frame": {"x":2,"y":952,"w":240,"h":144},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":144},
+	"sourceSize": {"w":240,"h":144}
+},
+"两头带钩的线_qc.png copy":
+{
+	"frame": {"x":244,"y":952,"w":218,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":218,"h":43},
+	"sourceSize": {"w":218,"h":43}
+},
+"小车_qc.png":
+{
+	"frame": {"x":464,"y":952,"w":87,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":87,"h":44},
+	"sourceSize": {"w":87,"h":44}
+},
+"小铁环_qc.png":
+{
+	"frame": {"x":553,"y":952,"w":113,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":113,"h":43},
+	"sourceSize": {"w":113,"h":43}
+},
+"带挡隔的小木板_qc.png":
+{
+	"frame": {"x":668,"y":952,"w":254,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":254,"h":43},
+	"sourceSize": {"w":254,"h":43}
+},
+"秒表_qc.png":
+{
+	"frame": {"x":924,"y":952,"w":87,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":87,"h":43},
+	"sourceSize": {"w":87,"h":43}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "15.0.0.173",
+	"image":"78be99d87b3e3705.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":2048},
+	"scale": "1"
+}
+}

@@ -1,0 +1,115 @@
+﻿{"frames": {
+
+"Bitmap 2":
+{
+	"frame": {"x":2,"y":2,"w":42,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":42,"h":35},
+	"sourceSize": {"w":42,"h":35}
+},
+"Bitmap 3":
+{
+	"frame": {"x":46,"y":2,"w":42,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":42,"h":36},
+	"sourceSize": {"w":42,"h":36}
+},
+"Bitmap 4":
+{
+	"frame": {"x":90,"y":2,"w":186,"h":249},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":186,"h":249},
+	"sourceSize": {"w":186,"h":249}
+},
+"btn_down.png":
+{
+	"frame": {"x":278,"y":2,"w":111,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":111,"h":35},
+	"sourceSize": {"w":111,"h":35}
+},
+"btn_up.png":
+{
+	"frame": {"x":391,"y":2,"w":111,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":111,"h":35},
+	"sourceSize": {"w":111,"h":35}
+},
+"clock_dinglin.png":
+{
+	"frame": {"x":504,"y":2,"w":186,"h":249},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":186,"h":249},
+	"sourceSize": {"w":186,"h":249}
+},
+"clock_dinglin.png copy":
+{
+	"frame": {"x":504,"y":2,"w":186,"h":249},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":186,"h":249},
+	"sourceSize": {"w":186,"h":249}
+},
+"glass_cover.png":
+{
+	"frame": {"x":2,"y":253,"w":418,"h":500},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":418,"h":500},
+	"sourceSize": {"w":418,"h":500}
+},
+"glass_machine.png":
+{
+	"frame": {"x":2,"y":755,"w":721,"h":177},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":721,"h":177},
+	"sourceSize": {"w":721,"h":177}
+},
+"machine_no_air.png copy":
+{
+	"frame": {"x":2,"y":934,"w":721,"h":606},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":721,"h":606},
+	"sourceSize": {"w":721,"h":606}
+},
+"ref":
+{
+	"frame": {"x":725,"y":934,"w":120,"h":66},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":66},
+	"sourceSize": {"w":120,"h":66}
+},
+"抽真空气泵_qc.png":
+{
+	"frame": {"x":2,"y":1542,"w":189,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":189,"h":44},
+	"sourceSize": {"w":189,"h":44}
+},
+"闹钟_qc.png copy":
+{
+	"frame": {"x":193,"y":1542,"w":88,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":43},
+	"sourceSize": {"w":88,"h":43}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "15.0.0.173",
+	"image":"7f5fd886658794e8.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":2048},
+	"scale": "1"
+}
+}

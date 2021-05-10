@@ -1,0 +1,43 @@
+﻿{"frames": {
+
+"diangzi0":
+{
+	"frame": {"x":2,"y":2,"w":147,"h":171},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":171},
+	"sourceSize": {"w":147,"h":171}
+},
+"diangzi1":
+{
+	"frame": {"x":151,"y":2,"w":173,"h":171},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":173,"h":171},
+	"sourceSize": {"w":173,"h":171}
+},
+"diangzi2":
+{
+	"frame": {"x":2,"y":175,"w":197,"h":171},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":197,"h":171},
+	"sourceSize": {"w":197,"h":171}
+},
+"hammer.png":
+{
+	"frame": {"x":201,"y":175,"w":286,"h":246},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":286,"h":246},
+	"sourceSize": {"w":286,"h":246}
+}},
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "15.0.0.173",
+	"image":"7905c5d49dfbfd03.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":512},
+	"scale": "1"
+}
+}
